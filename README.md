@@ -4,6 +4,10 @@
 ![Leaderboard Rank](https://img.shields.io/badge/Leaderboard-1st%20Place-gold?style=for-the-badge&logo=kaggle)
 ![Accuracy Score](https://img.shields.io/badge/Score-0.7543-success?style=for-the-badge)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Visitors](https://komarev.com/ghpvc/?username=ranehal&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
+
+![Pixel Count](https://count.getloli.com/get/@ranehal-dengue?theme=rule34)
+![Visitors](https://komarev.com/ghpvc/?username=ranehal&label=VISITORS&style=pixel&color=blueviolet)
 
 ---
 
