@@ -6,7 +6,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Visitors](https://komarev.com/ghpvc/?username=ranehal&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 
-![Pixel Count](https://count.getloli.com/get/@ranehal-dengue?theme=rule34)
+![Pixel Count](https://count.getloli.com/get/@ranehal-dengue?theme=3d-num)
 ![Visitors](https://komarev.com/ghpvc/?username=ranehal&label=VISITORS&style=pixel&color=blueviolet)
 
 ---
